@@ -1,0 +1,14 @@
+2026-03-28 18:37:20,923 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-03-28 18:37:22,347 - ERROR - Binance API Error: APIError(code=-2014): API-key format invalid.
+2026-03-28 18:37:26,262 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-03-28 18:37:26,509 - ERROR - Binance API Error: APIError(code=-2014): API-key format invalid.
+2026-03-28 19:03:12,762 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-03-28 19:03:13,528 - ERROR - Binance API Error: APIError(code=-2014): API-key format invalid.
+2026-03-28 19:04:55,667 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-03-28 19:04:56,007 - ERROR - Binance API Error: APIError(code=-2014): API-key format invalid.
+2026-03-28 19:08:40,362 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-03-28 19:08:40,827 - WARNING - API failed, switching to mock mode: APIError(code=-2014): API-key format invalid.
+2026-03-28 19:08:40,828 - INFO - Order Response: {'orderId': 171857, 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 65000, 'mock': True}
+2026-03-28 19:08:50,633 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-03-28 19:08:50,926 - WARNING - API failed, switching to mock mode: APIError(code=-2014): API-key format invalid.
+2026-03-28 19:08:50,926 - INFO - Order Response: {'orderId': 108606, 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 60000.0, 'mock': True}
